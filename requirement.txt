@@ -1,0 +1,9 @@
+plotly
+collections
+string
+
+## This file specifies the external libraries your Python script depends on:
+
+plotly: This library is used for generating visualizations (optional). If you don't intend to use the visualization functionality, you can remove this line from the requirements.txt file.
+collections: This module provides the Counter class used for counting character frequencies in the text.
+string: This module provides access to the alphabet characters used in the Caesar Cipher implementation.
